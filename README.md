@@ -4,7 +4,7 @@
 
 ### ✨ [Demo](https://build-a-header-parser.mu668.repl.co/)
 
-![image](https://user-images.githubusercontent.com/103457332/236342603-eba864f6-f10f-41b5-915a-c97231e36949.png)
+![image](https://user-images.githubusercontent.com/103457332/236342659-a6c2821e-5622-4376-83ed-f3fb03285c99.png)
 
 # Tools and Technologies Used
 - HTML & CSS
